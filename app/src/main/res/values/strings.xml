@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">电池管理</string>
+    <string name="model_title1">优化</string>
+    <string name="model_title2">游戏</string>
+    <string name="model_title3">娱乐</string>
+    <string name="model_title4">高性能</string>
+    <string name="model_info1">平衡日常应用中的电池使用时间和屏幕分辨率。</string>
+    <string name="model_info2">让游戏更流畅的运行，来提升您的游戏体验。</string>
+    <string name="model_info3">用超高音质和增强画面来欣赏音乐和视频。</string>
+    <string name="model_info4">体验最高画质显示设置。</string>
+    <string name="shot">ShotScreen</string>
+    <string name="upload">UploadData</string>
+    <string name="description">为了保证电池性能优化任务的进行，请务必打开此项辅助功能!</string>
+</resources>
